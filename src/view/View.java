@@ -31,5 +31,8 @@ public class View
 		public void printModelo(Modelo modelo)
 		{
 			// TODO implementar
+			System.out.println(modelo.toString());
+			
+			
 		}
 }
